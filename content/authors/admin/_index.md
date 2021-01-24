@@ -14,7 +14,7 @@ organizations:
   url: http://globalchangescience.org/eastafricanode/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on sustainable intensification of maize-legume cropping systems with smallholder farmers primarily in East and Southern Africa.
+bio: I'm an agroecologist with a PhD in crop and soil sciences passionate about connecting sustainable agriculture research with farmers who are invested in using agricultural practices that improve the environment and their communities.
 
 # Interests to show in About widget
 interests:
@@ -67,7 +67,5 @@ email: ""
 highlight_name: true
 ---
 
-I’m a post-doctoral research associate for the Snapp Lab at Michigan State University (MSU). My research focuses on identifying sustainable agricultural practices with a focus on smallholder farming systems in Sub-Saharan Africa. My PhD research focused on maize-legume cropping systems in Tanzania at different scales taking an interdisciplinary approach to evaluating legume production through integrating field trials, on-farm assessments, and current extension systems.
-
-I believe that through applying agro-ecological principles to assess current and experimental management practices we can improve our current agricultural systems impact on both the environment and people. I prioritize research and projects that bring researchers and farmers together to identify tools that support the integration of sustainable practices and are compatible with farmers needs and conditions. Check out my work below and feel free to reach out with collaboration ideas!
+I’m a post-doctoral research associate for the Snapp Lab at Michigan State University (MSU). My research focuses on identifying sustainable agricultural practices with a focus on smallholder farming systems in Sub-Saharan Africa. My PhD research focused on maize-legume cropping systems in Tanzania at different scales taking an interdisciplinary approach to evaluating legume production through integrating field trials, on-farm assessments, and current extension systems. Check out my work below and feel free to reach out with collaboration ideas!
 
