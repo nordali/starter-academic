@@ -67,5 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a post-doctoral research associate for the Snapp Lab within the Department of Plant, Soil and Microbial Sciences at Michigan State University (MSU). My research focuses on working with smallholder farmers applying agroecological principles to maize-legume cropping systems.
+I’m a post-doctoral research associate for the Snapp Lab at Michigan State University (MSU). My research focuses on identifying sustainable agricultural practices with a focus on smallholder farming systems in Sub-Saharan Africa. My PhD research focused on maize-legume cropping systems in Tanzania at different scales taking an interdisciplinary approach to evaluating legume production through integrating field trials, on-farm assessments, and current extension systems.
+
+I believe that through applying agro-ecological principles to assess current and experimental management practices we can improve our current agricultural systems impact on both the environment and people. I prioritize research and projects that bring researchers and farmers together to identify tools that support the integration of sustainable practices and are compatible with farmers needs and conditions. Check out my work below and feel free to reach out with collaboration ideas!
 
