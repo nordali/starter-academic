@@ -26,9 +26,9 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: ""
+publication: "PLOS One"
 featured: false
-date: 2021-01-24T02:38:33.119Z
+date: 2020-01-24T02:38:33.119Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
