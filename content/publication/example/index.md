@@ -20,7 +20,7 @@ image:
   caption: ""
   focal_point: Center
   preview_only: false
-  filename: featured.jpg
+  filename: 
 summary: ""
 url_dataset: ""
 url_project: ""
