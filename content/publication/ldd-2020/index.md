@@ -20,7 +20,7 @@ image:
 summary: ""
 url_dataset: ""
 url_project: ""
-url_source: "https://onlinelibrary.wiley.com/doi/10.1002/ldr.3582"
+url_source: ""
 url_video: ""
 publication: "Land Degradation & Development"
 featured: true
