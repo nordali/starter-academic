@@ -1,15 +1,19 @@
 ---
-title: Publications
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
 view: 4
-
-# Optional header image (relative to `static/media/` folder).
+publication_types:
+  - "2"
+authors:
+  - Alison Nord
+  - Sieglinde Snapp
+doi: 10.1002/ldr.3582
+publication: Land Degradation & Development
 header:
   caption: ""
   image: ""
+title: Documentation of farmer perceptions and site-specific properties to
+  improve soil management on smallholder farms in Tanzania
+featured: true
+image:
+  filename: featured_ldd.jpg
+date: 2021-01-24T02:49:21.026Z
 ---
