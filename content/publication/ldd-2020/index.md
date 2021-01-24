@@ -16,7 +16,7 @@ image:
   caption: ""
   focal_point: Center
   preview_only: false
-  filename: ldd-2020.jpg
+  filename: featured.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
