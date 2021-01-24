@@ -14,6 +14,6 @@ title: Documentation of farmer perceptions and site-specific properties to
   improve soil management on smallholder farms in Tanzania
 featured: true
 image:
-  filename: featured_ldd.jpg
+  filename: ""
 date: 2021-01-24T02:49:21.026Z
 ---
