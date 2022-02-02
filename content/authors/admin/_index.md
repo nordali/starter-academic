@@ -6,12 +6,12 @@ title: Alison Nord
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral Researcher
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Michigan State University
-  url: http://globalchangescience.org/eastafricanode/
+- name: University of Michigan - Blesh Lab
+  url: https://bleshlab.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an agroecologist with a PhD in crop and soil sciences passionate about connecting sustainable agriculture research with farmers who are invested in using agricultural practices that improve the environment and their communities.
@@ -19,8 +19,8 @@ bio: I'm an agroecologist with a PhD in crop and soil sciences passionate about 
 # Interests to show in About widget
 interests:
 - Agroecology
-- Smallholder farming systems
-- International agriculture development
+- Soil nutrient cycling
+- Sustainable farming systems
 
 # Education to show in About widget
 education:
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:nordalis@msu.edu"
+  link: "mailto:alisonn@umich.edu"
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2522-4794
@@ -67,5 +67,5 @@ email: ""
 highlight_name: true
 ---
 
-I’m a post-doctoral research associate for the Snapp Lab at Michigan State University (MSU). My research focuses on identifying sustainable agricultural practices with a focus on smallholder farming systems in Sub-Saharan Africa. My PhD research focused on maize-legume cropping systems in Tanzania at different scales taking an interdisciplinary approach to evaluating legume production through integrating field trials, on-farm assessments, and current extension systems. Check out my work below and feel free to reach out with collaboration ideas!
+I’m a research fellow in the Blesh Lab at the University of Michigan - School for Environment and Sustainability (SEAS). My current research focuses on investigating crop productivity and soil nutrient cycling in perennial agricultural systems. Specifically I lead a field experiment looking at the effects of intercropping perennial legumes with a novel perennial wheat crop to assess the effects of legumes on perennial wheat production and soil health. My previous research focused on identifying sustainable agricultural practices with a focus on smallholder farming systems in Sub-Saharan Africa. In my PhD work I focused on maize-legume cropping systems in Tanzania at different scales taking an interdisciplinary approach to evaluating legume production through integrating field trials, on-farm assessments, and current extension systems.
 
