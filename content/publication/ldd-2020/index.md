@@ -23,7 +23,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: "Land Degradation & Development"
-featured: true
+featured: false
 date: 2020-02-24T02:38:33.119Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
