@@ -34,7 +34,7 @@ abstract: Effective extension systems are vital to smallholder agriculture.
   Tanzania highlights the persistent disconnects that occur at multiple levels,
   acting as a barrier to sustainable intensification of smallholder farming.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: ""
