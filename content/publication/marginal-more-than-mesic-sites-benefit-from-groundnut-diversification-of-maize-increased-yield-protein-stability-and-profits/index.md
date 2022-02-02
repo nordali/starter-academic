@@ -4,13 +4,12 @@ title: "Marginal more than mesic sites benefit from groundnut diversification of
 publication_types:
   - "2"
 authors:
-  - John
-  - Innocensia Snapp
-  - Sieglinde Nord
-  - Alison Chimonyo
-  - Vimbayi Gwenambira
-  - Chiwimbo Chikowo
-  - Regis
+  - Innocensia John
+  - Sieglinde Snapp
+  - Alison Nord
+  - Vimbayi Chimonyo
+  - Chiwimbo Gwenambira
+  - Regis Chikowo
 doi: 10.1016/j.agee.2021.107585
 abstract: ""
 draft: false
