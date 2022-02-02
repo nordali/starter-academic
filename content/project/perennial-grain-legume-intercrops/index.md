@@ -6,7 +6,7 @@ featured: false
 external_link: https://bleshlab.com/research/perennial-grain-legume-intercrops/
 links: []
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
