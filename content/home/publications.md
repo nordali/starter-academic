@@ -1,7 +1,7 @@
 ---
 widget: pages
 widget_id: Recent-publications
-weight: 90
+weight: 65
 title: Publications
 subtitle: ""
 active: true
