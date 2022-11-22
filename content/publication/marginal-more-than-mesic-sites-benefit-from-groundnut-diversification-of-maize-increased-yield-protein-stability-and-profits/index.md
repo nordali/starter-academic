@@ -11,6 +11,7 @@ authors:
   - Chiwimbo Gwenambira
   - Regis Chikowo
 doi: 10.1016/j.agee.2021.107585
+publication: Agriculture, Ecosystems and Environment
 abstract: ""
 draft: false
 featured: false
