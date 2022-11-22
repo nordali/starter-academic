@@ -4,9 +4,9 @@ title: Current knowledge on practices targeting soil fertility and agricultural
 publication_types:
   - "2"
 authors:
-  - A.Nord
-  - S.Snapp
-  - B.Traore
+  - Alison Nord
+  - Sieglinde Snapp
+  - Bouba Traore
 doi: doi.org/10.1007/s13593-022-00808-1
 publication: Agronomy for Sustainable Development
 abstract: Implementing sustainable production practices to rehabilitate soils is
@@ -41,5 +41,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-11-22T21:10:25.149Z
+date: 2022-08-05
 ---
