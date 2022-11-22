@@ -5,14 +5,13 @@ title: "Barriers to sustainable intensification: overlooked disconnects between
 publication_types:
   - "2"
 authors:
-  - Nord
-  - Alison Bekunda
-  - Mateete McCormack
-  - Caitlin Snapp
-  - Sieglinde
+  - Alison Nord
+  - Bekunda Mateete
+  - Caitlin McCormack
+  - Sieglinde Snapp
 doi: 10.1080/14735903.2021.1961416
 publication: International Journal of Agricultural Sustainability
-publication_short: IJAS
+publication_short: 
 abstract: Effective extension systems are vital to smallholder agriculture.
   Education on sustainable management involves complex interactions and
   communication flows among information providers and practitioners. Farmer
@@ -39,5 +38,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-02-02T23:09:53.460Z
+date: 2021-08-11
 ---
