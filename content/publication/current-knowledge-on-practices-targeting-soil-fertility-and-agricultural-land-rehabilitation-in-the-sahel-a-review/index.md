@@ -8,6 +8,7 @@ authors:
   - S.Snapp
   - B.Traore
 doi: doi.org/10.1007/s13593-022-00808-1
+publication: Agronomy for Sustainable Development
 abstract: Implementing sustainable production practices to rehabilitate soils is
   a grand challenge of our day, particularly for resource-poor farmers. The West
   African Sahel requires attention to balancing the need for increasing
